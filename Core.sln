@@ -9,6 +9,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WinForms", "WinForms", "{1E
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinForms.TemperatureConvert", "WinForms.TemperatureConvert\WinForms.TemperatureConvert.csproj", "{DDD3FDF8-88B9-4238-9FDA-715DA7E86318}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinForms.CaesarCipher", "WinForms.CaesarCipher\WinForms.CaesarCipher.csproj", "{4AB6BD5A-1C88-4AD7-B60D-B4CD03B0C735}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,12 +21,17 @@ Global
 		{DDD3FDF8-88B9-4238-9FDA-715DA7E86318}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DDD3FDF8-88B9-4238-9FDA-715DA7E86318}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DDD3FDF8-88B9-4238-9FDA-715DA7E86318}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AB6BD5A-1C88-4AD7-B60D-B4CD03B0C735}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AB6BD5A-1C88-4AD7-B60D-B4CD03B0C735}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AB6BD5A-1C88-4AD7-B60D-B4CD03B0C735}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AB6BD5A-1C88-4AD7-B60D-B4CD03B0C735}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{DDD3FDF8-88B9-4238-9FDA-715DA7E86318} = {1E86BA7C-B719-4BE3-9204-250F6877C6F2}
+		{4AB6BD5A-1C88-4AD7-B60D-B4CD03B0C735} = {1E86BA7C-B719-4BE3-9204-250F6877C6F2}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {A186795C-DF27-4AB5-82FD-5CBBCF79A0F6}
