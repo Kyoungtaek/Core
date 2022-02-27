@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ConsoleApp.ReadTextFileOutput": {
+      "commandName": "Project",
+      "commandLineArgs": "data.txt"
+    }
+  }
+}
