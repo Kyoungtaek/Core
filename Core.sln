@@ -15,6 +15,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp.ReadTextFileOutp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinForms.Lambda", "WinForms.Lambda\WinForms.Lambda.csproj", "{3248B104-6F8D-446E-925B-42ABD2810DE6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinForms.Await", "WinForms.Await\WinForms.Await.csproj", "{B438E3C1-C80D-42B2-A6B9-02313FE26D4C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -37,6 +39,10 @@ Global
 		{3248B104-6F8D-446E-925B-42ABD2810DE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3248B104-6F8D-446E-925B-42ABD2810DE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3248B104-6F8D-446E-925B-42ABD2810DE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B438E3C1-C80D-42B2-A6B9-02313FE26D4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B438E3C1-C80D-42B2-A6B9-02313FE26D4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B438E3C1-C80D-42B2-A6B9-02313FE26D4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B438E3C1-C80D-42B2-A6B9-02313FE26D4C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -46,6 +52,7 @@ Global
 		{4AB6BD5A-1C88-4AD7-B60D-B4CD03B0C735} = {1E86BA7C-B719-4BE3-9204-250F6877C6F2}
 		{12DBE5DE-9226-40C8-9A57-BB72C1C72CBD} = {57BEB3D0-B344-4003-B228-8CBD269C6DF3}
 		{3248B104-6F8D-446E-925B-42ABD2810DE6} = {1E86BA7C-B719-4BE3-9204-250F6877C6F2}
+		{B438E3C1-C80D-42B2-A6B9-02313FE26D4C} = {1E86BA7C-B719-4BE3-9204-250F6877C6F2}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {A186795C-DF27-4AB5-82FD-5CBBCF79A0F6}
