@@ -13,11 +13,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinForms.CaesarCipher", "Wi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp.ReadTextFileOutput", "ConsoleApp.ReadTextFileOutput\ConsoleApp.ReadTextFileOutput.csproj", "{12DBE5DE-9226-40C8-9A57-BB72C1C72CBD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinForms.Lambda", "WinForms.Lambda\WinForms.Lambda.csproj", "{3248B104-6F8D-446E-925B-42ABD2810DE6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinForms.Lambda", "WinForms.Lambda\WinForms.Lambda.csproj", "{3248B104-6F8D-446E-925B-42ABD2810DE6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinForms.Await", "WinForms.Await\WinForms.Await.csproj", "{B438E3C1-C80D-42B2-A6B9-02313FE26D4C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinForms.Await", "WinForms.Await\WinForms.Await.csproj", "{B438E3C1-C80D-42B2-A6B9-02313FE26D4C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp.DynamicArray", "ConsoleApp.DynamicArray\ConsoleApp.DynamicArray.csproj", "{C6370C10-A8DF-4EF7-9224-AE412613D7F9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp.DynamicArray", "ConsoleApp.DynamicArray\ConsoleApp.DynamicArray.csproj", "{C6370C10-A8DF-4EF7-9224-AE412613D7F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinForms.DataInputCSV", "WinForms.DataInputCSV\WinForms.DataInputCSV.csproj", "{CE5215EA-586C-4B55-BE75-9ABB64BB3A1E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -49,6 +51,10 @@ Global
 		{C6370C10-A8DF-4EF7-9224-AE412613D7F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C6370C10-A8DF-4EF7-9224-AE412613D7F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C6370C10-A8DF-4EF7-9224-AE412613D7F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE5215EA-586C-4B55-BE75-9ABB64BB3A1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE5215EA-586C-4B55-BE75-9ABB64BB3A1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE5215EA-586C-4B55-BE75-9ABB64BB3A1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE5215EA-586C-4B55-BE75-9ABB64BB3A1E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -60,6 +66,7 @@ Global
 		{3248B104-6F8D-446E-925B-42ABD2810DE6} = {1E86BA7C-B719-4BE3-9204-250F6877C6F2}
 		{B438E3C1-C80D-42B2-A6B9-02313FE26D4C} = {1E86BA7C-B719-4BE3-9204-250F6877C6F2}
 		{C6370C10-A8DF-4EF7-9224-AE412613D7F9} = {57BEB3D0-B344-4003-B228-8CBD269C6DF3}
+		{CE5215EA-586C-4B55-BE75-9ABB64BB3A1E} = {1E86BA7C-B719-4BE3-9204-250F6877C6F2}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {A186795C-DF27-4AB5-82FD-5CBBCF79A0F6}
