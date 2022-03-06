@@ -23,6 +23,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinForms.DataInputCSV", "Wi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp.PracticeFileLogger", "ConsoleApp.PracticeFileLogger\ConsoleApp.PracticeFileLogger.csproj", "{BA706C74-8DD5-4CB5-AF06-CC63A74A1380}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp.TestMessanger", "Console.TestMessanger\ConsoleApp.TestMessanger.csproj", "{851DD4D5-3D46-483A-AB3E-24768CC90AC8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -61,6 +63,10 @@ Global
 		{BA706C74-8DD5-4CB5-AF06-CC63A74A1380}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BA706C74-8DD5-4CB5-AF06-CC63A74A1380}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BA706C74-8DD5-4CB5-AF06-CC63A74A1380}.Release|Any CPU.Build.0 = Release|Any CPU
+		{851DD4D5-3D46-483A-AB3E-24768CC90AC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{851DD4D5-3D46-483A-AB3E-24768CC90AC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{851DD4D5-3D46-483A-AB3E-24768CC90AC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{851DD4D5-3D46-483A-AB3E-24768CC90AC8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -74,6 +80,7 @@ Global
 		{C6370C10-A8DF-4EF7-9224-AE412613D7F9} = {57BEB3D0-B344-4003-B228-8CBD269C6DF3}
 		{CE5215EA-586C-4B55-BE75-9ABB64BB3A1E} = {1E86BA7C-B719-4BE3-9204-250F6877C6F2}
 		{BA706C74-8DD5-4CB5-AF06-CC63A74A1380} = {57BEB3D0-B344-4003-B228-8CBD269C6DF3}
+		{851DD4D5-3D46-483A-AB3E-24768CC90AC8} = {57BEB3D0-B344-4003-B228-8CBD269C6DF3}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {A186795C-DF27-4AB5-82FD-5CBBCF79A0F6}
