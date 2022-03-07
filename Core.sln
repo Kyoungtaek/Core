@@ -25,6 +25,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp.PracticeFileLogg
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp.TestMessanger", "Console.TestMessanger\ConsoleApp.TestMessanger.csproj", "{851DD4D5-3D46-483A-AB3E-24768CC90AC8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp.SQLBasic", "ConsoleApp.SQLBasic\ConsoleApp.SQLBasic.csproj", "{6436FA00-389E-4ACC-874E-200C8826F91A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -67,6 +69,10 @@ Global
 		{851DD4D5-3D46-483A-AB3E-24768CC90AC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{851DD4D5-3D46-483A-AB3E-24768CC90AC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{851DD4D5-3D46-483A-AB3E-24768CC90AC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6436FA00-389E-4ACC-874E-200C8826F91A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6436FA00-389E-4ACC-874E-200C8826F91A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6436FA00-389E-4ACC-874E-200C8826F91A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6436FA00-389E-4ACC-874E-200C8826F91A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -81,6 +87,7 @@ Global
 		{CE5215EA-586C-4B55-BE75-9ABB64BB3A1E} = {1E86BA7C-B719-4BE3-9204-250F6877C6F2}
 		{BA706C74-8DD5-4CB5-AF06-CC63A74A1380} = {57BEB3D0-B344-4003-B228-8CBD269C6DF3}
 		{851DD4D5-3D46-483A-AB3E-24768CC90AC8} = {57BEB3D0-B344-4003-B228-8CBD269C6DF3}
+		{6436FA00-389E-4ACC-874E-200C8826F91A} = {57BEB3D0-B344-4003-B228-8CBD269C6DF3}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {A186795C-DF27-4AB5-82FD-5CBBCF79A0F6}
